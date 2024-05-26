@@ -1,5 +1,5 @@
 {
-  "name": "simple-calc-mshsheikh",
+  "name": "cli-calc-mshsheikh",
   "version": "1.0.0",
   "description": "It's a simple command line calculator created with using TypeScript, NodeJS & InquirerJS by Muhammad Salman Hussain.",
   "main": "index.js",
