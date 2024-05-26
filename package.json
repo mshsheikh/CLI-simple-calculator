@@ -1,0 +1,19 @@
+{
+  "name": "simple-calc-mshsheikh",
+  "version": "1.1.1",
+  "description": "It's a simple command line calculator created with using TypeScript, NodeJS & InquirerJS by Muhammad Salman Hussain.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MUHAMMAD SALMAN HUSSAIN",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
